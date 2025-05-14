@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-14T07:32:13-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Forever Jekyll</title><subtitle>A simple, elegant and full featured Jekyll theme</subtitle><entry><title type="html">Smyth (***)</title><link href="http://localhost:4000/posts/2024-05-29-smyth" rel="alternate" type="text/html" title="Smyth (***)" /><published>2024-05-29T00:00:00-07:00</published><updated>2024-05-29T00:00:00-07:00</updated><id>http://localhost:4000/posts/smyth</id><content type="html" xml:base="http://localhost:4000/posts/2024-05-29-smyth"><![CDATA[<!--more-->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-14T08:40:29-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brenton Eats</title><subtitle>I write thoughts about nice restaurants</subtitle><entry><title type="html">Smyth (***)</title><link href="http://localhost:4000/posts/2024-05-29-smyth" rel="alternate" type="text/html" title="Smyth (***)" /><published>2024-05-29T00:00:00-07:00</published><updated>2024-05-29T00:00:00-07:00</updated><id>http://localhost:4000/posts/smyth</id><content type="html" xml:base="http://localhost:4000/posts/2024-05-29-smyth"><![CDATA[<!--more-->
 
-<p align="center">
-  <img src="/image/smyth/restaurant.jpg" alt="restaurant" />
-</p>
+<p><a href="/assets/image/smyth/restaurant.jpg" class="glightbox"><img src="/assets/image/smyth/restaurant.jpg" alt="smyth_restaurant" /></a></p>
 
 <table>
   <tbody>
@@ -29,6 +27,18 @@
   </tbody>
 </table>
 
+<div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
+  <a href="/assets/image/smyth/restaurant.jpg" class="glightbox" data-gallery="restaurant-gallery">
+    <img src="/assets/image/smyth/restaurant.jpg" alt="Restaurant 1" style="width: 100%; border-radius: 2px;" />
+  </a>
+  <a href="/assets/image/smyth/restaurant.jpg" class="glightbox" data-gallery="restaurant-gallery">
+    <img src="/assets/image/smyth/restaurant.jpg" alt="Restaurant 2" style="width: 100%; border-radius: 2px;" />
+  </a>
+  <a href="/assets/image/smyth/restaurant.jpg" class="glightbox" data-gallery="restaurant-gallery">
+    <img src="/assets/image/smyth/restaurant.jpg" alt="Restaurant 3" style="width: 100%; border-radius: 2px;" />
+  </a>
+</div>
+
 <p>Nestled in the West Loop, stepping into Smyth, you are invited into an assuming layout with an open kitchen that lacks the stuffiness of many other Michelin starred restaurants. The wait staff are friendly and the ambience invites an air of warmth. At the time of dining, Smyth had just recently been awarded its third star.</p>
 
 <p>To start off, as a precursor to the rest of the courses each with a somewhat Japanese flair, we were presented with the slightly alcoholic, fermented amazake with fruity pineapple notes and a large sprig of leaf. It was fresh, fruity, and provided good sweetness to begin with. The tart had a very strong herb flavor with the fennel and dill but it went well with the kelp and the mushier prawn. The quail egg provided a strong burst of flavor as the yolk exploded.</p>
@@ -47,9 +57,7 @@
 
 <p>I want to additionally point out the excellent service as handedness, towels, and dish explanations were handled with care and it was evident how attentive our waiters and waitresses were.</p>
 
-<p align="center">
-  <img src="/images/alinea/00.jpg" alt="menu" />
-</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Alinea (***)</title><link href="http://localhost:4000/posts/2023-10-09-alinea" rel="alternate" type="text/html" title="Alinea (***)" /><published>2023-10-09T00:00:00-07:00</published><updated>2023-10-09T00:00:00-07:00</updated><id>http://localhost:4000/posts/alinea</id><content type="html" xml:base="http://localhost:4000/posts/2023-10-09-alinea"><![CDATA[<!--more-->
+<p><a href="/assets/image/smyth/00.jpg" class="glightbox"><img src="/assets/image/smyth/00.jpg" alt="smyth_menu" /></a></p>]]></content><author><name></name></author><category term="Contemporary" /><category term="Creative" /><category term="Chicago" /><category term="United States of America" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Alinea (***)</title><link href="http://localhost:4000/posts/2023-10-09-alinea" rel="alternate" type="text/html" title="Alinea (***)" /><published>2023-10-09T00:00:00-07:00</published><updated>2023-10-09T00:00:00-07:00</updated><id>http://localhost:4000/posts/alinea</id><content type="html" xml:base="http://localhost:4000/posts/2023-10-09-alinea"><![CDATA[<!--more-->
 <p><a href="/assets/image/alinea/restaurant.jpg" class="glightbox"><img src="/assets/image/alinea/restaurant.jpg" alt="alinea_restaurant" /></a></p>
 
 <table>
@@ -93,6 +101,4 @@
 
 <p>Dessert was an amazing experience. The first tea served in a tube tasted exactly of Hubba Bubba and set the tone for the playfulness of the following dishes. “Painted Dessert” was a spectacle to behold as lights dimmed and our table was shrouded with dry ice. Additionally, every component was tasty, not too sweet, and the portion sizes were quite large. Lastly, we had a fully edible balloon of apple toffee with helium to play with after.</p>
 
-<p align="center">
-  <img src="/images/alinea/00.jpg" alt="menu" />
-</p>]]></content><author><name></name></author><category term="Creative" /><category term="Modern Cuisine" /><category term="Chicago" /><category term="United States of America" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p><a href="/assets/image/alinea/00.jpg" class="glightbox"><img src="/assets/image/alinea/00.jpg" alt="alinea_menu" /></a></p>]]></content><author><name></name></author><category term="Creative" /><category term="Modern Cuisine" /><category term="Chicago" /><category term="United States of America" /><summary type="html"><![CDATA[]]></summary></entry></feed>
