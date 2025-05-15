@@ -1,6 +1,12 @@
-<figure>
+<figure {% if include.center == "true" %}style="text-align: center;"{% endif %}>
   <a href="{{ include.url }}" class="glightbox">
-    <img src="{{ include.url }}" alt="{{ include.alt || include.caption }}">
+    <img 
+      src="{{ include.url }}" 
+      alt="{{ include.alt | default: include.caption }}" 
+      style="width: {{ include.width | default: '100%' }};{% if include.center == "true" %} display: block; margin: 0 auto;{% endif %}" 
+    />
   </a>
-  <figcaption>{{ include.caption }}</figcaption>
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
 </figure>

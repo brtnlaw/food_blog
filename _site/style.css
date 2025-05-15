@@ -35,7 +35,7 @@ ul, ol, dl, figure,
 .container {
   flex: 1 0 auto;
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1110px;
   padding: 0 10px;
   width: 100%;
 }
@@ -133,7 +133,7 @@ figure > img {
 
 figcaption {
   font-size: 14px !important;
-  margin-top: -20px;
+  margin-top: 5px;
   margin-bottom: 10px;
   text-align: center;
   color: #666666;
