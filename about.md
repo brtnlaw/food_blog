@@ -6,8 +6,7 @@ permalink: /about
 
 Cataloging restaurants I eat at!
 
-Rating system roughly as follows.
-
+### Rating system roughly as follows: 
 
 - 5: Mind-blowingly tasty and unique food.
 - 4: High quality flavors.   
@@ -15,4 +14,7 @@ Rating system roughly as follows.
 - 2: Decent, but lacking, food. 
 - 1: Did not enjoy eating.  
 
+### Brenton's Best Bite:
+
+My standout dish at the establishment, taking into account uniqueness, flavor, and presentation.
 
