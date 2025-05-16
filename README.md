@@ -1,7 +1,3 @@
-# [Forever Jekyll - A simple, elegant & full featured Jekyll theme](https://forever-jekyll.github.io)
-`Forever Jekyll` is a theme-template-boilerplate for `Jekyll`. Primary goal of `Forever Jekyll` is to make the task of building a personal website with `Jekyll` so easy that even a person with non-computing background should be able to do it with ease.  
-
-
 ## How to run
 This page should be hosted on GithubPages by default at `https://brtnlaw.github.io/food_blog`. You can make sure of this by checking the repo at `Settings => Pages => Source` and make sure that `Branch: main` is set to `/ (root)`.
 To run this locally, try ```bundle exec jekyll serve --livereload```

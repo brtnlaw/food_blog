@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/food_blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/food_blog/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-15T13:36:50-07:00</updated><id>http://localhost:4000/food_blog/feed.xml</id><title type="html">Brenton Eats</title><subtitle>Enjoying food.</subtitle><entry><title type="html">Smyth (***)</title><link href="http://localhost:4000/food_blog/posts/2024-05-29-smyth" rel="alternate" type="text/html" title="Smyth (***)" /><published>2024-05-29T00:00:00-07:00</published><updated>2024-05-29T00:00:00-07:00</updated><id>http://localhost:4000/food_blog/posts/smyth</id><content type="html" xml:base="http://localhost:4000/food_blog/posts/2024-05-29-smyth"><![CDATA[<!--more-->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/food_blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/food_blog/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-15T17:45:22-07:00</updated><id>http://localhost:4000/food_blog/feed.xml</id><title type="html">Brenton Eats</title><subtitle>Enjoying food.</subtitle><entry><title type="html">Smyth (***)</title><link href="http://localhost:4000/food_blog/posts/2024-05-29-smyth" rel="alternate" type="text/html" title="Smyth (***)" /><published>2024-05-29T00:00:00-07:00</published><updated>2024-05-29T00:00:00-07:00</updated><id>http://localhost:4000/food_blog/posts/smyth</id><content type="html" xml:base="http://localhost:4000/food_blog/posts/2024-05-29-smyth"><![CDATA[<!--more-->
 
 <table>
   <tbody>
@@ -25,71 +25,236 @@
   </tbody>
 </table>
 
-<p><a href="../assets/image/smyth/restaurant.jpg" class="glightbox"><img src="../assets/image/smyth/restaurant.jpg" alt="smyth_restaurant" /></a></p>
+<figure style="text-align: center;">
+  <a href="../assets/image/smyth/restaurant.jpg" class="glightbox">
+    <img src="../assets/image/smyth/restaurant.jpg" alt="" style="width: 50%; display: block; margin: 0 auto;" />
+  </a>
+  
+</figure>
 
-<p>Nestled in the West Loop, stepping into Smyth, you are invited into an assuming layout with an open kitchen that lacks the stuffiness of many other Michelin starred restaurants. The wait staff are friendly and the ambience invites an air of warmth. At the time of dining, Smyth had just recently been awarded its third star.</p>
+<p>Nestled in the West Loop, stepping into Smyth, you are invited into an assuming layout with an open kitchen that lacks the stuffiness of many other Michelin starred restaurants. The wait staff are friendly and the ambience invites an air of warmth. At the time of dining, Smyth had been awarded its third star for the first time.</p>
 
-<p>To start off, as a precursor to the rest of the courses each with a somewhat Japanese flair, we were presented with the slightly alcoholic, fermented amazake with fruity pineapple notes and a large sprig of leaf. It was fresh, fruity, and provided good sweetness to begin with. The tart had a very strong herb flavor with the fennel and dill but it went well with the kelp and the mushier prawn. The quail egg provided a strong burst of flavor as the yolk exploded.</p>
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <figure>
+  <a href="../assets/image/smyth/01.jpg" class="glightbox">
+    <img src="../assets/image/smyth/01.jpg" alt="01: sapote amazake with edible pineapple leaf" style="width: 100%;" />
+  </a>
+  
+    <figcaption>01: sapote amazake with edible pineapple leaf</figcaption>
+  
+</figure>
 
-<p>The following two dishes held with more seafood - the Dungeness crab bite was akin to eating fruit with a briny crab aftertaste. The crab custard, almost a chawanmushi, was one of the best courses, fusing a rich crab flavor with passionfruit for intense umami and sweetness in every bite. The following onion dish was largely forgettable, as they were roasted well and tart, but the lobster consomme did not provide too much support for flavor.</p>
+  <figure>
+  <a href="../assets/image/smyth/02.jpg" class="glightbox">
+    <img src="../assets/image/smyth/02.jpg" alt="02: kelp, spot prawn, fennel, dill, basil, tart" style="width: 100%;" />
+  </a>
+  
+    <figcaption>02: kelp, spot prawn, fennel, dill, basil, tart</figcaption>
+  
+</figure>
 
-<p>The caviar dash had a very odd presentation - it was caviar stuck to the side and slowly sliding down into the walnut sauce. In my opinion, this seemed a bit messy and unrefined; we were given almonds and rose butter to alternate enjoying the caviar with, and while they both were pleasant, the rose butter had a much stronger, richer flavor, providing decent contrast.</p>
+  <figure>
+  <a href="../assets/image/smyth/03.jpg" class="glightbox">
+    <img src="../assets/image/smyth/03.jpg" alt="03: quail egg, puff, seaweed, yolk sauce" style="width: 100%;" />
+  </a>
+  
+    <figcaption>03: quail egg, puff, seaweed, yolk sauce</figcaption>
+  
+</figure>
 
-<p>The palate cleanser was effective and fresh. It combined the apple, eucalyptus, and avocado to provide an earthy dish with a peanut milk bed, a bit like a vegetable ice cream. The following vegetable dish fell a bit flat. The cream sauce and pureé were just fine, if not a bit tart and the asparagus tips were done well but lacked much beyond their initial flavor. I was a big fan of the rainbow trout as its consistency was almost gelatinous, contrasted to its flaky skin and kombu. Laying atop the congee allowed the rice to soak up much of the sauce and flavor.</p>
+</div>
 
-<p>Their next dish was the “Lamb in Many Ways,” where the rack was notably delicious while the sausage was unremarkable but savory. The milk bread was fresh, fluffy, and warm and accompanied the lamb heart and habañero sauce well, which formed a very unique yet effective combo. I was satisfied with Smyth’s willingness to try different combinations and provide contrasting flavors, textures, and ideas to the palate.</p>
+<p>To start off, as a precursor to the rest of the courses each with a somewhat Japanese flair, we were presented with the slightly alcoholic, fermented amazake with fruity pineapple notes and a large sprig of pineapple leaf. It was fresh, fruity, and provided good sweetness to begin with <strong><em>(3.5/5)</em></strong>. The tart had a bit of an overwhelmingly herbal flavor with the fennel and dill but these flavors overall went well with the kelp and the prawn, which provided a mushier textural contrast <strong><em>(3/5)</em></strong>. The quail egg dish provided a strong burst of flavor as the yolk exploded while the other ingredients were a bit more muted <strong><em>(3/5)</em></strong>.</p>
 
-<p>Onto dessert, the goat cheese texture was just like perfectly chilled ice cream and the tartness provided by the pineapple with the sweetness of the honey fit well. I also enjoyed the ingenuity behind the banana dish, essentially reconstructing the fruit in novel ways. The custard was strong and we were instructed to bite once into the walnut truffle, finish the “banana,” and finally revisit the truffle, keeping up its sweetness. The sweet, chewy kombu was an interesting touch.</p>
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <figure>
+  <a href="../assets/image/smyth/04.jpg" class="glightbox">
+    <img src="../assets/image/smyth/04.jpg" alt="04: Dungeness crab, jackfruit" style="width: 100%;" />
+  </a>
+  
+    <figcaption>04: Dungeness crab, jackfruit</figcaption>
+  
+</figure>
 
-<p>The ganache “quail eggs” were good, but I was not a fan of the strong lemon rind flavor. The graham cracker shot had quite a neutral ganache but the flower flavor was a bit stronger than I would’ve liked. The sea lettuce caramel was strong and evoked flavors similar to that of Japanese snacks.</p>
+  <figure>
+  <a href="../assets/image/smyth/05.jpg" class="glightbox">
+    <img src="../assets/image/smyth/05.jpg" alt="05: crab kani custard, passionfruit, miso, amazake" style="width: 100%;" />
+  </a>
+  
+    <figcaption>05: crab kani custard, passionfruit, miso, amazake</figcaption>
+  
+</figure>
 
-<p>I want to additionally point out the excellent service as handedness, towels, and dish explanations were handled with care and it was evident how attentive our waiters and waitresses were.</p>
+</div>
+
+<p>The following two dishes held with more seafood - the Dungeness crab bite was akin to eating fruit with a briny crab aftertaste. The jackfruit largely dictated the texture but there was a good mix of saltiness and sweetness in the bite <strong><em>(3.5/5)</em></strong>.</p>
+
+<p>The crab custard, almost a chawanmushi, was one of the best courses, fusing a rich crab flavor with passionfruit for intense umami and sweetness in every bite. The consistency was soft and delicate, but very savory. It came with an interesting slanted, wooden spoon to aid in getting all the corners of the square plate <strong><em>(4.5/5)</em></strong>.</p>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <figure>
+  <a href="../assets/image/smyth/06.jpg" class="glightbox">
+    <img src="../assets/image/smyth/06.jpg" alt="06: spring onion jelly, lobster consommé, rhubarb" style="width: 100%;" />
+  </a>
+  
+    <figcaption>06: spring onion jelly, lobster consommé, rhubarb</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/07.jpg" class="glightbox">
+    <img src="../assets/image/smyth/07.jpg" alt="07: rose butter, artichoke vinaigrette, black walnut sauce, caviar" style="width: 100%;" />
+  </a>
+  
+    <figcaption>07: rose butter, artichoke vinaigrette, black walnut sauce, caviar</figcaption>
+  
+</figure>
+
+</div>
+
+<p>From here, if the previous dishes were ocean-themed, the next four seemed to be more land- and earth-themed. The following onion dish was largely forgettable. The onions themselves roasted well and tart, but at the end of the day, they were simply just well prepared onions. The lobster consommé did not provide too much support for flavor <strong><em>(2/5)</em></strong>.</p>
+
+<p>The caviar dash had a very odd presentation - it was caviar stuck to the side and slowly sliding down into the walnut sauce. In my opinion, this seemed a bit messy and unrefined; we were given almonds and rose butter to alternate enjoying the caviar with, and while they both were pleasant, the rose butter had a much stronger, richer flavor, providing decent contrast <strong><em>(2/5)</em></strong>.</p>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <figure>
+  <a href="../assets/image/smyth/08.jpg" class="glightbox">
+    <img src="../assets/image/smyth/08.jpg" alt="08: avocado, eucalyptus, peanut milk, green apple, slushie" style="width: 100%;" />
+  </a>
+  
+    <figcaption>08: avocado, eucalyptus, peanut milk, green apple, slushie</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/09.jpg" class="glightbox">
+    <img src="../assets/image/smyth/09.jpg" alt="09: buckwheat amazake, asparagus tips, young spruce, asparagus purée" style="width: 100%;" />
+  </a>
+  
+    <figcaption>09: buckwheat amazake, asparagus tips, young spruce, asparagus purée</figcaption>
+  
+</figure>
+
+</div>
+
+<p>We were presented with an intermittent palate cleanser, which was effective and fresh. It combined the apple, eucalyptus, and avocado to provide an earthy dish with a peanut milk bed, a bit like a vegetable ice cream. The flavors were subtle and inoffensive, with the iciness and creaminess standing out <strong><em>(3/5)</em></strong>.</p>
+
+<p>The following asparagus dish fell a bit flat. The cream sauce and purée were just fine, if not a bit tart, and the asparagus tips were properly cooked and nicely textured but lacked much beyond their initial flavor. The inedible spruce was also a bit strange <strong><em>(1.5/5)</em></strong>.</p>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <figure>
+  <a href="../assets/image/smyth/10.jpg" class="glightbox">
+    <img src="../assets/image/smyth/10.jpg" alt="10: steamed brook trout, kombu, congee, seaweed, turnip juice braise, soy glaze" style="width: 100%;" />
+  </a>
+  
+    <figcaption>10: steamed brook trout, kombu, congee, seaweed, turnip juice braise, soy glaze</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/11-01.jpg" class="glightbox">
+    <img src="../assets/image/smyth/11-01.jpg" alt="11-01: lamb multiple ways with lamb tongue draped over lamb rack, fried lamb fat on top, foie gras, lamb liver sausage" style="width: 100%;" />
+  </a>
+  
+    <figcaption>11-01: lamb multiple ways with lamb tongue draped over lamb rack, fried lamb fat on top, foie gras, lamb liver sausage</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/11-02.jpg" class="glightbox">
+    <img src="../assets/image/smyth/11-02.jpg" alt="11-02: milk bread with sourdough, lamb heart sauce with habañero peppers" style="width: 100%;" />
+  </a>
+  
+    <figcaption>11-02: milk bread with sourdough, lamb heart sauce with habañero peppers</figcaption>
+  
+</figure>
+
+</div>
+
+<p>I was a big fan of the rainbow trout. The meat’s consistency after being cooked was almost gelatinous, in stark contrast to its flaky skin and kombu. Laying atop the congee allowed the rice to soak up much of the sauce and flavor. The soy glaze was sweet and went well with the bed of turnip juice braise <strong><em>(4/5)</em></strong>.</p>
+
+<p>Their next dish was “Lamb in Many Ways,” where the rack was notably delicious and tender while the sausage was unremarkable but savory, meaty, and salty. The fried lamb fat was also crispy <strong><em>(3.5/5)</em></strong>. The milk bread was fresh, fluffy, and warm, covered in a sweet glaze. It accompanied the lamb heart and habañero sauce well, forming a very unique set of ingredients to combine sweetness with spiciness and tang. I was impressed with Smyth’s willingness to try different combinations of ingredients and look to provide contrast in flavors and textures <strong><em>(4/5)</em></strong>.</p>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <figure>
+  <a href="../assets/image/smyth/12.jpg" class="glightbox">
+    <img src="../assets/image/smyth/12.jpg" alt="12: cheese, honey, pineapple, goat's milk yogurt" style="width: 100%;" />
+  </a>
+  
+    <figcaption>12: cheese, honey, pineapple, goat's milk yogurt</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/13-01.jpg" class="glightbox">
+    <img src="../assets/image/smyth/13-01.jpg" alt="13-01: banana custard shaped like a banana made with overripe banana peel oil, kombu braised in fruit, fruit demiglace" style="width: 100%;" />
+  </a>
+  
+    <figcaption>13-01: banana custard shaped like a banana made with overripe banana peel oil, kombu braised in fruit, fruit demiglace</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/13-02.jpg" class="glightbox">
+    <img src="../assets/image/smyth/13-02.jpg" alt="13-02: black walnut truffle with caramel, bits of black walnut" style="width: 100%;" />
+  </a>
+  
+    <figcaption>13-02: black walnut truffle with caramel, bits of black walnut</figcaption>
+  
+</figure>
+
+</div>
+
+<p>Onto dessert, the goat cheese texture was just like a perfectly chilled ice cream and the tartness provided by the pineapple with the sweetness of the honey fit together well <strong><em>(3.5/5)</em></strong>. Their banana dish was creative, essentially reconstructing the fruit in novel ways. The custard flavor was strong and we were instructed to bite once into the walnut truffle, finish the “banana,” and finally revisit the truffle, maintaining up its sweetness. This “reconstruction” effectively brought out the banana flavor while rotating with the nuttier truffle mixed well. The sweet, chewy kombu was an interesting touch <strong><em>(4/5)</em></strong>.</p>
+
+<div style="display: flex; justify-content: center; gap: 1rem;">
+  <figure>
+  <a href="../assets/image/smyth/14-01.jpg" class="glightbox">
+    <img src="../assets/image/smyth/14-01.jpg" alt="14-01: white chocolate ganachee quail eggs, lemon rind, sunflower, tart" style="width: 100%;" />
+  </a>
+  
+    <figcaption>14-01: white chocolate ganachee quail eggs, lemon rind, sunflower, tart</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/14-02.jpg" class="glightbox">
+    <img src="../assets/image/smyth/14-02.jpg" alt="14-02: graham cracker shot with ganache, flowers from garden" style="width: 100%;" />
+  </a>
+  
+    <figcaption>14-02: graham cracker shot with ganache, flowers from garden</figcaption>
+  
+</figure>
+
+  <figure>
+  <a href="../assets/image/smyth/15.jpg" class="glightbox">
+    <img src="../assets/image/smyth/15.jpg" alt="15: sea lettuce caramel" style="width: 100%;" />
+  </a>
+  
+    <figcaption>15: sea lettuce caramel</figcaption>
+  
+</figure>
+
+</div>
+
+<p>We were presented with ganache “quail eggs” within a woven nest, and while the chocolate part was good, I was not a fan of the strong lemon rind flavor, which was almost overpowering <strong><em>(2/5)</em></strong>. The graham cracker shot had quite a neutral ganache but the flower flavor was a bit stronger than I would’ve liked. I would’ve preferred they introduce a more leading flavor within the ganache and held out on the number of flowers they put on top <strong><em>(2/5)</em></strong>. The sea lettuce caramel tasted of seaweed and evoked flavors similar to that of Japanese snacks <strong><em>(3/5)</em></strong>.</p>
+
+<p>Additionally, throughout our meal, the service was especially excellent as left- or right-handedness, towels, and dish explanations were handled with care. It was evident how attentive our waiters and waitresses were even compared to the 3 Michelin star standard.</p>
 
 <p><a href="../assets/image/smyth/00.jpg" class="glightbox"><img src="../assets/image/smyth/00.jpg" alt="smyth_menu" /></a></p>
 
-<!-- - selector: smyth_slider
-  captions: true
-  bullets: true
-  images:
-  - src: /images/smyth/01.jpg
-    alt: "01: sapote amazake with edible pineapple leaf"
-  - src: /images/smyth/02.jpg
-    alt: "02: kelp, spot prawn, fennel, dill, basil, tart"
-  - src: /images/smyth/03.jpg
-    alt: "03: quail egg, puff, seaweed, yolk sauce"
-  - src: /images/smyth/04.jpg
-    alt: "04: Dungeness crab, jackfruit"
-  - src: /images/smyth/05.jpg
-    alt: "05: crab kani custard, passionfruit, miso, amazake"
-  - src: /images/smyth/06.jpg
-    alt: "06: spring onion jelly, lobster consommé, rhubarb"
-  - src: /images/smyth/07.jpg
-    alt: "07: rose butter, artichoke vinaigrette, black walnut sauce, caviar"
-  - src: /images/smyth/08.jpg
-    alt: "08: avocado, eucalyptus, peanut milk, green apple, slushie"
-  - src: /images/smyth/09.jpg
-    alt: "09: buckwheat amazake, asparagus tips, young spruce, asparagus pureé"
-  - src: /images/smyth/10.jpg
-    alt: "10: steamed brook trout, kombu, congee, seaweed, turnip juice braise, soy glaze"
-  - src: /images/smyth/11-01.jpg
-    alt: "11-01: lamb multiple ways with lamb tongue draped over lamb rack, fried lamb fat on top, foie gras, lamb liver sausage"
-  - src: /images/smyth/11-02.jpg
-    alt: "11-02: milk bread with sourdough, lamb heart sauce with habañero peppers"
-  - src: /images/smyth/12.jpg
-    alt: "12: cheese, honey, pineapple, goat's milk yogurt"
-  - src: /images/smyth/13-01.jpg
-    alt: "13-01: banana custard shaped like a banana made with overripe banana peel oil, kombu braised in fruit, fruit demiglace"
-  - src: /images/smyth/13-02.jpg
-    alt: "13-02: black walnut truffle with caramel, bits of black walnut"
-  - src: /images/smyth/14-01.jpg
-    alt: "14-01: white chocolate ganachee quail eggs, lemon rind, sunflower, tart"
-  - src: /images/smyth/14-02.jpg
-    alt: "14-02: graham cracker shot with ganache, flowers from garden"
-  - src: /images/smyth/15.jpg
-    alt: "15: sea lettuce caramel"
-  settings:
-    height: "'auto'"
-    effect: "'fade'" -->]]></content><author><name></name></author><category term="Contemporary" /><category term="Creative" /><category term="Chicago" /><category term="United States of America" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Alinea (***)</title><link href="http://localhost:4000/food_blog/posts/2023-10-09-alinea" rel="alternate" type="text/html" title="Alinea (***)" /><published>2023-10-09T00:00:00-07:00</published><updated>2023-10-09T00:00:00-07:00</updated><id>http://localhost:4000/food_blog/posts/alinea</id><content type="html" xml:base="http://localhost:4000/food_blog/posts/2023-10-09-alinea"><![CDATA[<!--more-->
+<h2 id="bbb">BBB</h2>
+
+<figure>
+  <a href="../assets/image/smyth/05.jpg" class="glightbox">
+    <img src="../assets/image/smyth/05.jpg" alt="05: crab kani custard, passionfruit, miso, amazake" style="width: 100%;" />
+  </a>
+  
+    <figcaption>05: crab kani custard, passionfruit, miso, amazake</figcaption>
+  
+</figure>
+
+<p><em>05</em> was my favorite of the dishes at Smyth. The Asian influenced chawanmushi had an exceptional balance of sweetness, savoriness, and saltiness and showed how a creative choice of ingredients can yield new ways to enjoy dishes.</p>]]></content><author><name></name></author><category term="Contemporary" /><category term="Creative" /><category term="Chicago" /><category term="United States of America" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Alinea (***)</title><link href="http://localhost:4000/food_blog/posts/2023-10-09-alinea" rel="alternate" type="text/html" title="Alinea (***)" /><published>2023-10-09T00:00:00-07:00</published><updated>2023-10-09T00:00:00-07:00</updated><id>http://localhost:4000/food_blog/posts/alinea</id><content type="html" xml:base="http://localhost:4000/food_blog/posts/2023-10-09-alinea"><![CDATA[<!--more-->
 
 <table>
   <tbody>
