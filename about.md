@@ -6,7 +6,15 @@ permalink: /about
 
 Cataloging restaurants I eat at!
 
-### Rating system roughly as follows: 
+### Entire establishments rated upon:
+
+- Overall food taste and uniqueness of flavor
+- Food presentation and general entertainment
+- Ambience and service warmth
+
+These are relative to expectation of a 3 Michelin star restaurant. The overall score is weighted 45%, 35%, 20%, rounded to one significant figure.
+
+### Dish rating system roughly as follows: 
 
 - 5: Mind-blowingly tasty and unique food.
 - 4: High quality flavors.   
