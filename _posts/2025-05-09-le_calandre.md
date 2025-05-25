@@ -9,9 +9,9 @@ categories: [Creative, Contemporary, Rubano, Italy]
 <!--more-->
 
 |------------|-------------------------------------------------------------------------|
-| **Rating** |   *Overall* ***3.6/5***  <br> (Taste 4/5, Presentation 4/5, Ambience 2/5)          |
+| **Rating** |   *Overall* ***3.6/5***  <br> (Taste 4/5, Presentation 4/5, Ambience 2/5) |
 | **Cost**   | €280pp                                                                  |
-| **Location** | Rubano, Italy                                                         |
+| **Location** | Via Liguria 1, 35030 Sarmeola di Rubano (PD), Italia                  |
 | **Head Chef** | Massimiliano Alajmo                                                 |
 | **TL;DR**  |  modernized, authentic Italian fare elevating familiar ingredients with artistic flair|
 
