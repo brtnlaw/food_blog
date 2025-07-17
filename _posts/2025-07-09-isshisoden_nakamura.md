@@ -6,14 +6,16 @@ permalink: /posts/2025-07-09-isshisoden-nakamura
 categories: [Japanese, Kyoto, Japan]
 ---
 
+<!--TODO: Change the sizing to be more uniform. Too tired to do right now.> 
+
 <!--more-->
 
 |------------|-------------------------------------------------------------------------|
-| **Rating** |   *Overall* ***/5***<br> (Taste /5, Presentation /5, Ambience /5)  |
+| **Rating** |   *Overall* ***2.4/5***<br> (Taste 2/5, Presentation 2/5, Ambience 4/5)  |
 | **Cost**   | ¥25300pp                                                                  |
-| **Location** |  136 松下町, 富小路通御池下ル, 中京区, 京都市 604-8093, 日本                     |
+| **Location** |  136 松下町, 富小路通御池下ル, 中京区, 京都市 604-8093, 日本              |
 | **Head Chef** |  Motokazu Nakamura                      |
-| **TL;DR**  | seafood kaiseki with impeccable service and traditional dishes |
+| **TL;DR**  | seafood Japanese kaiseki with impeccable service and traditional flavors |
 
 {% include image.html
    url="../assets/image/isshisoden_nakamura/restaurant.jpg"
@@ -21,9 +23,9 @@ categories: [Japanese, Kyoto, Japan]
    center="true"
 %}
 
-Finding this restaurant was a bit of challenge, taking a taxi from Kawaramachi station and getting a bit lost within the sea of nondescript buildings. However, once we keyed in on the restaurant with its blue demarcations, we walked into a wet stone path, took of our shoes, and were greeted by a bowing okami. From there, we were led into our private dining room, where it became unclear whether or not we were the only ones dining at the time. Luckily, the tatami-matted room had zaisu for our legs, with no need to cross the whole meal.
+Finding this restaurant for our lunch was a bit of challenge, taking a taxi from Kawaramachi station and getting a bit lost within the sea of nondescript buildings. However, once we keyed in on the restaurant with its blue demarcations, we walked into a wet stone path, took of our shoes, and were greeted by a bowing okami. From there, we were led into our private dining room, where it became unclear whether or not we were the only ones dining at the time. Luckily, the tatami-matted room had zaisu for our legs, with no need to cross the whole meal.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 3;">
    {% include image.html
       url="../assets/image/isshisoden_nakamura/01.jpg"
       caption="01: hot green tea"
@@ -45,7 +47,7 @@ Our starting dish was a tofu formed into the shape of a wave with okra and junsa
 The next dish was described as one of Nakamura's most famous; a piping hot mustard miso soup with grilled mochi. The mustard was just strong so as to not sting the nose, while the mochi itself was a tad flavorless. Much of the enjoyment came towards the end when using the mochi to soak up the mustard flavor ***(2.5/5)***.
 
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/isshisoden_nakamura/04.jpg"
       caption="04: striped jack, hamo, prawn, soy sauce and dark soy sauce, light oil, soy sauce and dashi"
@@ -60,7 +62,7 @@ The sashimi dish was relatively standard. For the striped jack, hamo (conger eel
 
 We then had a seabass dish with sliced green beans inside of a chili pepper shell and shishito peppers dusted in bonito. The seabass for me was a tad dry and subtle flavor-wise on its own, but the green vinegar sauce imparted good amounts of tanginess and moisture. I also enjoyed the sesame on the green beans ***(3.5/5)***.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/isshisoden_nakamura/06.jpg"
       caption="06: boiled hamu, eggplant, shiitake mushroom, negi, calabash, dashi"
@@ -75,7 +77,7 @@ For soup, we had the hamu again except with various vegetables including eggplan
 
 Next, we had a delicate, ornate dish that we were instructed to mix: sea urchin, grated yam, wasabi, and seaweed. The sliminess and coolness of the dish was surprisingly refreshing, and the brininess evoked the theme of the ocean. The sea urchin was small, but fresh ***(3.5/5)***. 
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 3;">
    {% include image.html
       url="../assets/image/isshisoden_nakamura/08-01.jpg"
       caption="08-01: sake, Japanese tilefish"
@@ -96,7 +98,7 @@ Then, in non-photogenic fashion, dashi broth was poured over our tilefish remain
 
 In kaiseki fashion, we were then given an assortment of Japanese pickles with ginger rice and the first of two cups of roasted tea. The cucumber was tangy and the radish was more subtle, having a bit of a chewier texture. The pickled kelp was a bit too salty and soy fermented for my liking, but the ginger rice grew on me and imparted small notes of spiciness that saved the dish ***(3/5)***.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/isshisoden_nakamura/10.jpg"
       caption="10: matcha, dango, vanilla ice cream, red bean, soy powder"

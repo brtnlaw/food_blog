@@ -23,7 +23,7 @@ categories: [Creative, Contemporary, Rubano, Italy]
 
 After an hour long ride on the Regionale train from Venice, followed by another 30 minute cab ride, one arrives at the door of Le Calandre, guarded by its large red wolf statue. The interior is dimly lit, and at each table is a divot with a ball of yarn. To get to our table, we walk past lampshades of dried stockfish skins and a large cart of cheese.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/le_calandre/01.jpg"
       caption="01: assorted breadsticks"
@@ -38,7 +38,7 @@ At our seats are already placed napkins with assorted breadsticks tucked in-betw
 
 Our amuse bouche was par. The pea tart had quite an herbal, rosemary-like flavor to it. The crispy deep-fried olive was interesting texturally, although I'm not a huge fan of the olive flavor. The parmigion reggiano bite was warm and savory, with a nice chew to it. The two cheese puffs had relatively similar flavors and textures (with their mild notes of their respective spice), and were melted as they sat in your mouth ***(2.5/5)***. 
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/le_calandre/03-01.jpg"
       caption="03-01: warm bread"
@@ -51,7 +51,7 @@ Our amuse bouche was par. The pea tart had quite an herbal, rosemary-like flavor
 
 The bread dish was hurriedly brought out in the middle of us eating the amuse bouche, which I found a bit odd. Itself, it was nothing special, not piping hot. They replaced the ball in the center with the bread wrapped in a towel as a parcel. The olive oil had a sharp herb which wasn't exceptionally tasty ***(2.5/5)***.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/le_calandre/04.jpg"
       caption="04: zucchini noodles, bitter root, asparagus sorbet, fava bean cream, mozzarella ball, soaked crouton"
@@ -66,7 +66,7 @@ In what was seemingly a worrying trend, our first dish came out almost immediate
 
 The next dish was called "Murrina Cappuccino", and it was stunning. Inspired by the glass from the Murano island off of Venice, the immediate visual appeal of the dish was apparent. Tasting it, the potato cream and olive oil combination was rich and buttery, while the cuttlefish chunks were perfectly cooked, with just the right amount of bite. The flavor was akin to a much elevated clam chowder. The only slight drawback was that it was a tad salty ***(4.5/5)***.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 3;">
    {% include image.html
       url="../assets/image/le_calandre/06.jpg"
       caption="06: ricotta, tomato, mozzarella, basil, puff"
@@ -85,7 +85,7 @@ For our next dish, we are presented with adorned with text written in seaweed, "
 
 Following that dish, we had an egg shell taglietelle alongside a pair of earplugs! We are instructed to close our eyes when chewing to really allow the egg plant texture and sensation to be focused upon. This was a really interesting experience, and the egg shell crunch coupled with the al dente noodles really stood out. The cream was rich and the cheese and herbs are done well. The broth was soothing, herbal, and had a hint of peppercorn that numbed the throat before the next dish ***(4.5/5)***.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 3;">
    {% include image.html
       url="../assets/image/le_calandre/08-01.jpg"
       caption="08-01: glass infused with licorice and saffron"
@@ -102,7 +102,7 @@ Following that dish, we had an egg shell taglietelle alongside a pair of earplug
 
 To prepare us for the next course, we are presented with an empty glass infused with licorice and saffron which we are to smell. The dish is Le Calandre's famous risotto, inspired by a Roberto Barni sculpture in Uffizi. This was a very complex dish, with each bite having a multitude of flavors. To start, the risotto was cooked a perfect al dente. The veal broth provided a savory base, and bites had spiciness from the licorice, sour from the citrus, and umami from the saffron. Despite mixed reviews at the table, I adored the execution ***(4.5/5)***. Interestingly, it looked like the tables nearest us (who seemed friendly with the chef) received the remaining pots of risotto!
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/le_calandre/09-A.jpg"
       caption="09-A: hand-chopped Piemontese beef tartare with black truffle - balsamic vinegar, lettuce heart, oiled bread"
@@ -118,7 +118,7 @@ We had two options for the next main dish. I opted for the beef tartare with bla
 The other option pictured was a scorched bone marrow with calamari cream and a caviar bruschetta. The marrow was described as delicious and fatty, but not greasy, while the cracker itself was elegant. The flavors were heavily inspired by the burning herb.
 
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 2;">
    {% include image.html
       url="../assets/image/le_calandre/10.jpg"
       caption="10: roasted suckling pig, chicories, mustard and coffee powder, cream"
@@ -133,7 +133,7 @@ The final savory dish was a roasted suckling pig with mustard greens and a coffe
 
 We then replaced the middle fixture with a ball with fruits on sticks. These were simple but absolutely delicious. The strawberries were coated with pop rocks, which was especially refreshing. The apple had become almost translucent after it seemed to be soaked in sugar water and was aptlysweet. The pineapple was also tart and sweet, without being overly sour ***(4/5)***.
 
-<div style="display: flex; justify-content: center; gap: 1rem;">
+<div class="image-row" style="--image-count: 3;">
    {% include image.html
       url="../assets/image/le_calandre/12-A.jpg"
       caption="12-A: almond, sugar, honey, water, egg white, olive oil, capers"

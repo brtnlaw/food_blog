@@ -618,6 +618,18 @@ footer {
   }
 }
 
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.image-row > * {
+  flex: 1 1 calc(100% / var(--image-count) - 1rem);
+  max-width: calc(100% / var(--image-count) - 1rem);
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "message";
