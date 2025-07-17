@@ -47,7 +47,7 @@ The next dish was described as one of Nakamura's most famous; a piping hot musta
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
    {% include image.html
-      url="../assets/image/isshisoden_nakamura/02.jpg"
+      url="../assets/image/isshisoden_nakamura/04.jpg"
       caption="04: striped jack, hamo, prawn, soy sauce and dark soy sauce, light oil, soy sauce and dashi"
    %}
     {% include image.html
@@ -62,11 +62,11 @@ We then had a seabass dish with sliced green beans inside of a chili pepper shel
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
    {% include image.html
-      url="../assets/image/isshisoden_nakamura/02.jpg"
+      url="../assets/image/isshisoden_nakamura/06.jpg"
       caption="06: boiled hamu, eggplant, shiitake mushroom, negi, calabash, dashi"
    %}
     {% include image.html
-      url="../assets/image/isshisoden_nakamura/05.jpg"
+      url="../assets/image/isshisoden_nakamura/07.jpg"
       caption="07: kombu, sea urchin, grated Japanese yam, wasabi"
    %}
 </div>
@@ -77,15 +77,15 @@ Next, we had a delicate, ornate dish that we were instructed to mix: sea urchin,
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
    {% include image.html
-      url="../assets/image/isshisoden_nakamura/02.jpg"
+      url="../assets/image/isshisoden_nakamura/08-01.jpg"
       caption="08-01: sake, Japanese tilefish"
    %}
     {% include image.html
-      url="../assets/image/isshisoden_nakamura/05.jpg"
+      url="../assets/image/isshisoden_nakamura/08-02.jpg"
       caption="08-02: tilefish scales and bones, dashi broth"
    %}
        {% include image.html
-      url="../assets/image/isshisoden_nakamura/05.jpg"
+      url="../assets/image/isshisoden_nakamura/09.jpg"
       caption="09: ginger rice, pickled cucumber, pickled radish, pickled kelp, roasted tea"
    %}
 </div>
@@ -98,11 +98,11 @@ In kaiseki fashion, we were then given an assortment of Japanese pickles with gi
 
 <div style="display: flex; justify-content: center; gap: 1rem;">
    {% include image.html
-      url="../assets/image/isshisoden_nakamura/02.jpg"
+      url="../assets/image/isshisoden_nakamura/10.jpg"
       caption="10: matcha, dango, vanilla ice cream, red bean, soy powder"
    %}
     {% include image.html
-      url="../assets/image/isshisoden_nakamura/05.jpg"
+      url="../assets/image/isshisoden_nakamura/11.jpg"
       caption="11: roasted tea"
     %}
 </div>
