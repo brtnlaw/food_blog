@@ -11,7 +11,7 @@ categories: [Japanese, Kyoto, Japan]
 <!--more-->
 
 |------------|-------------------------------------------------------------------------|
-| **Rating** |   *Overall* ***2.4/5***<br> (Taste 2/5, Presentation 2/5, Ambience 4/5)  |
+| **Rating** |   *Overall* ***2.5/5***<br> (Taste 2/5, Presentation 2/5, Ambience 4.5/5)  |
 | **Cost**   | ¥25300pp                                                                  |
 | **Location** |  136 松下町, 富小路通御池下ル, 中京区, 京都市 604-8093, 日本              |
 | **Head Chef** |  Motokazu Nakamura                      |
@@ -44,7 +44,7 @@ We were welcomed with a nice cup of green tea ***(3/5)***.
 
 Our starting dish was a tofu formed into the shape of a wave with okra and junsai. Once we dug into it with a spoon, it's evident how precisely and technically sliced it was in order to attain its shape. The bed of ponzu was light and the gelatinous texture of the okra and junsai were interesting ***(4/5)***.
 
-The next dish was described as one of Nakamura's most famous; a piping hot mustard miso soup with grilled mochi. The mustard was just strong so as to not sting the nose, while the mochi itself was a tad flavorless. Much of the enjoyment came towards the end when using the mochi to soak up the mustard flavor ***(2.5/5)***.
+The next dish was described as one of Nakamura's most famous; a piping hot mustard miso soup with grilled mochi. The mustard was just strong so as to not sting the nose, while the mochi itself was a tad flavorless. Much of the enjoyment came towards the end when using the mochi to soak up the mustard flavor. Interestingly, of the two soups, one was less grilled and had less of a chewy texture, and the soup of that one had noticeably less mustard ***(2.5/5)***.
 
 
 <div class="image-row" style="--image-count: 2;">
@@ -58,7 +58,7 @@ The next dish was described as one of Nakamura's most famous; a piping hot musta
    %}
 </div>
 
-The sashimi dish was relatively standard. For the striped jack, hamo (conger eel), and prawn respectively, we were given soy sauce mixed with dark soy sauce, a light oil, and a thicker soy sauce and dashi. The striped jack had a touch of spice for seasoning. The prawn seemed very lightly blanched while the conger eel had an interesting texture ***(3/5)***. 
+The sashimi dish was relatively standard. For the striped jack, hamo (conger eel), and prawn respectively, we were given soy sauce mixed with dark soy sauce, a light oil, and a thicker soy sauce and dashi. The striped jack had a touch of spice for seasoning. The prawn seemed very lightly blanched while the conger eel had an interesting texture and plenty of smaller, edible bones ***(3/5)***. 
 
 We then had a seabass dish with sliced green beans inside of a chili pepper shell and shishito peppers dusted in bonito. The seabass for me was a tad dry and subtle flavor-wise on its own, but the green vinegar sauce imparted good amounts of tanginess and moisture. I also enjoyed the sesame on the green beans ***(3.5/5)***.
 
