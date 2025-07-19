@@ -44,7 +44,7 @@ We were welcomed with a nice cup of green tea ***(3/5)***.
 
 Our starting dish was a tofu formed into the shape of a wave with okra and junsai. Once we dug into it with a spoon, it's evident how precisely and technically sliced it was in order to attain its shape. The bed of ponzu was light and the gelatinous texture of the okra and junsai were interesting ***(4/5)***.
 
-The next dish was described as one of Nakamura's most famous; a piping hot mustard miso soup with grilled mochi. The mustard was just strong so as to not sting the nose, while the mochi itself was a tad flavorless. Much of the enjoyment came towards the end when using the mochi to soak up the mustard flavor. Interestingly, of the two soups, one was less grilled and had less of a chewy texture, and the soup of that one had noticeably less mustard ***(2.5/5)***.
+The next dish was described as one of Nakamura's most famous; a piping hot mustard miso soup with grilled mochi. The mustard was just strong so as to not sting the nose, while the mochi itself was a tad flavorless. Much of the enjoyment came towards the end when using the mochi to soak up the mustard flavor. Interestingly, one of the two soups had mochi that was less grilled and a tamer mustard flavor ***(2.5/5)***.
 
 
 <div class="image-row" style="--image-count: 2;">
