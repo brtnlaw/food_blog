@@ -14,7 +14,7 @@ categories: [Japanese, Kyoto, Japan]
 | **Rating** |   *Overall* ***2.5/5***<br> (Taste 2/5, Presentation 2/5, Ambience 4.5/5)  |
 | **Cost**   | ¥25300pp                                                                  |
 | **Location** |  136 松下町, 富小路通御池下ル, 中京区, 京都市 604-8093, 日本              |
-| **Head Chef** |  Motokazu Nakamura                      |
+| **Head Chef** |  中村元計                                                        |
 | **TL;DR**  | seafood Japanese kaiseki with impeccable service and traditional flavors |
 
 {% include image.html
