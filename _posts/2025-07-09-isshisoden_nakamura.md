@@ -15,7 +15,7 @@ categories: [Japanese, Kyoto, Japan]
 | **Cost**   | ¥25300pp                                                                  |
 | **Location** |  136 松下町, 富小路通御池下ル, 中京区, 京都市 604-8093, 日本              |
 | **Head Chef** |  中村元計                                                        |
-| **TL;DR**  | seafood Japanese kaiseki with impeccable service and traditional flavors |
+| **TL;DR**  | traditional Japanese kaiseki with impeccable service and flavors of seafood |
 
 {% include image.html
    url="../assets/image/isshisoden_nakamura/restaurant.jpg"
